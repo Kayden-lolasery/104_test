@@ -1,0 +1,7 @@
+104 test module
+===============
+
+.. automodule:: 104 test
+   :members:
+   :undoc-members:
+   :show-inheritance:
